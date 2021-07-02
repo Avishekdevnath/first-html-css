@@ -1,0 +1,39 @@
+
+
+        .blog{
+            background-color: skyblue;
+            border-left: 10px solid yellow;
+           
+            border-radius: 10px;
+            
+            margin: 40px 10px 50px 20px;
+            padding: 10px 10px 10px 20px;
+            height: 300px;
+            width: 700px;
+        }
+
+        .blog p{
+            color: rgb(170, 105, 7);
+            text-align: justify;
+        }
+
+
+        .blog-title{
+            text-align: center;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 1.5em;
+            font-weight: 800;
+        }
+        
+
+
+        span{
+            color: brown;
+        }
+ 
+   
+
+
+
+
+   
